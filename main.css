@@ -1,0 +1,31 @@
+.content{
+    border: 8px solid;
+    padding: 20px;
+    height: 1300px;
+    width: auto;
+}
+
+ul {
+    list-style: none;
+  }
+
+li{
+    border: 2px solid rgb(228, 224, 224);
+    height: 450px;
+    width: 500px;
+    padding: 20px;
+    margin: 20px;
+    float: left;
+
+}
+
+
+img{
+    height: 350px;
+    width: 500px;
+
+}
+
+.add_hidden {  /* クラスの追加時はこのCSSが当たるようにします */
+    display: none;
+  }
